@@ -21,4 +21,6 @@
 
 > [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCdQNrk_cZO_003SP0JvcSMg) [![notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Yukyoung-s-Portfolio-7d31a61e101a4683be7fb5e2dabddfec) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:codingduck0703@gmail.com)
 
+<br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyYukyoung)](https://github.com/anuraghazra/github-readme-stats)
