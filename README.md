@@ -1,5 +1,5 @@
 ### Hi, this is Yukyoung GitHub repository.👋
-###### 수원정보과학고 IT소프트웨어과 재학생 2학년 이유경 | IT소프트웨어과💻 
+###### 수원정보과학고 재학생 2학년 이유경 | IT소프트웨어과💻 
 <hr/>
 
 >If you cannot fly then run. If you cannot walk, then crawl, but whatever you do, you have to keep moving forward. <br>  
