@@ -11,7 +11,7 @@
 #### Languages and Tools🔧 <br> 
 
 > Development language : ![C](https://img.shields.io/badge/c,c++-0052CC?style=flat-square&logo=C&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-004A9D?style=flat-square&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-CC0000?style=flat-square&logo=Java&logoColor=white) 
-> <br> Development tools : ![Intellij](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white) ![VSC](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white) ![Uniyt](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity-IDEA&logoColor=white)
+> <br> Development tools : ![Intellij](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white) ![VSC](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 > <br> Web page : ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=111111) 
 > <br> DB language : ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 <br>
